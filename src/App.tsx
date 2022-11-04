@@ -8,8 +8,6 @@ function App() {
     console.log("App rendering")
     return (
         <div>
-            <input/>
-            <input type={"date"}/>
             <PageTitle title={"This is APP component"}/>
             <PageTitle title={"My Friends"}/>
             <div>Article 1</div>
